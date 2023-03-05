@@ -4,7 +4,8 @@
 
 ## Group Members
 
-- Alfred Rozario (alfredr2003@gmail.com)
+
+- Hnery Lee (hlee.kkr@gmail.com)
 
 ## Setup
 
