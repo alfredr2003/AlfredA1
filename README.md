@@ -4,7 +4,7 @@
 
 ## Group Members
 
-- Naveed Mahmud (naveed.monash@gmail.com)
+- Alfred Rozario (alfredr2003@gmail.com)
 
 ## Setup
 
